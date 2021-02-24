@@ -16,3 +16,10 @@ font-family: 'Aclonica', cursive;
 strong{
 color:red;
 }
+img{
+width:200px;
+}
+.details{
+ display:flex;
+    justify-content:flex-end;
+}
